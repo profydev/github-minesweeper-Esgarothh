@@ -1,3 +1,4 @@
 {
-  "commands": ["CLEAR B2,CLEAR B3"]
+  "commands": ["CLEAR B2","CLEAR B3"]
+
 }
